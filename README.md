@@ -45,7 +45,7 @@ Users can change the date using the provided input field to view weather data fo
 <h1>References</h1>
 <ul>
   <li>
-    <a href="https://proandroiddev.com/getting-user-location-in-android-the-jetpack-compose-way-ebd35dabab46">https://proandroiddev.com/getting-user-location-in-android-the-jetpack-compose-way-ebd35dabab46</a>
+    <a href="https://proandroiddev.com/getting-user-location-in-android-the-jetpack-compose-way-ebd35dabab46" target="_blank">https://proandroiddev.com/getting-user-location-in-android-the-jetpack-compose-way-ebd35dabab46</a>
   </li>
   <li>
     <a href="https://medium.com/@droidvikas/exploring-date-and-time-pickers-compose-bytes-120e75349797">https://medium.com/@droidvikas/exploring-date-and-time-pickers-compose-bytes-120e75349797</a>
